@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fasinafarook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fasinafarook" height="30" width="40" /></a>
 <a href="https://instagram.com/faas__ina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faas__ina" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Fasina Farook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fasina farook" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCjgJZx1ortOTb8vmkuwxG-A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fasina farook" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fasina_far00k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fasina_far00k" height="30" width="40" /></a>
 </p>
 
