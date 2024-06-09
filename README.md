@@ -13,8 +13,8 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at https://github.com/fasinafarook?tab=repositories
-
+- 👨‍💻 "All my projects are available on GitHub."
+  
 - 💬 Ask me about **Node.js, Express.js, React.js, and MongoDB**
 
 - 📫 How to reach me **fasinafarook786@gmail.com**
